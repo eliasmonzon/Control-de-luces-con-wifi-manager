@@ -1,2 +1,2 @@
-# Control-de-luces-con-wifi-manager
+# Conexion wifi-manager
 Modulo para conexion wifi sin poner las credenciales 
